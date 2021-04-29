@@ -179,7 +179,7 @@ p {
 }
 .work-left {
     text-align: right;
-    padding: 3em 5em 0 0;
+    padding: 2.5em 6em 0 2.5em;
 }
 .work-right {
     border-left: 1px solid #999;
@@ -235,8 +235,8 @@ p {
     margin-left: -8em;
 }
 .work-left2 h5 span.glyphicon {
-    margin-left: 4em;
-    margin-right: -7.3em;
+    margin-left: 5em;
+    margin-right: -8em;
     z-index: 9;
 }
 .work-right.work-right2 {
@@ -273,6 +273,11 @@ p {
 .photoshop {
     padding-left: 10px;
 }
+.express img{
+    padding-top: 20px;
+    width: 175px;
+}
+
 .kalilinux{
     padding-left: 20px;
 }
